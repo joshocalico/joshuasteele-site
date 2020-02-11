@@ -11,7 +11,7 @@ My name is Joshua Steele. I write software.
 
 This is my first blog post on my new site.
 
-So how does it work? Easy, I use **Gatsby**, **React** and a nice tool called **Forestry** to provide a nice CMS interface because I didn't feel like writing one today.
+So how does it work? Easy, I use **Gatsby**, **React** and a nice tool called **Forestry** to provide a nice CMS interface because I didn't feel like writing one (particularly auth) today.
 
 I'm hosting it on a really nice CDN so everything loads super fast.
 

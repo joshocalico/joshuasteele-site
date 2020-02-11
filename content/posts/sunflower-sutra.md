@@ -1,42 +1,26 @@
 ---
-date: 2019-08-08T22:42:09Z
-title: Sunflower Sutra
-author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+date: 2020-01-07T13:45:09Z
+title: Hello! A welcome.
+author: Joshua Steele
+hero_image: "/content/images/Hello!.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+# Hi there!
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+My name is Joshua Steele. I write software.
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+This is my first blog post on my new site.
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+So how does it work? Easy, I use **Gatsby**, **React** and a nice tool called **Forestry** to provide a nice CMS interface because I didn't feel like writing one today.
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+I'm hosting it on a really nice CDN so everything loads super fast.
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+## Did you make this?
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+Good question! I initially started from a template so I could get the boilerplate out of the way and started developing around that. So... yes. Mostly. Spending what time you read this. Which... I'm going to assume is after I've modified the site to my hearts content. 
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+If you see a portfolio section. I definitely have. I've really got to make one of those.
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+## Is this site Open Source?
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
-
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
-
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
-
-![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
-
-The grime was no man’s grime but death and human locomotives,
-
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
-
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
-
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
-
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+Sure is! You can find the source code on my [GitHub](https://github.com/joshocalico/joshuasteele-site). It could get a bit murky looking at the  history though. Every post on Forestry generates a commit. If you want to know how I've done some particular React hackery, you are free to peruse.

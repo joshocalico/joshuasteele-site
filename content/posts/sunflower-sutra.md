@@ -2,7 +2,7 @@
 date: 2020-01-07T13:45:09Z
 title: Hello! A welcome.
 author: Joshua Steele
-hero_image: "/content/images/Hello!.jpg"
+hero_image: "/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 
 ---
 # Hi there!

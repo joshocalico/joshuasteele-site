@@ -17,7 +17,7 @@ I'm hosting it on a really nice CDN so everything loads super fast.
 
 ## Did you make this?
 
-Good question! I initially started from a template so I could get the boilerplate out of the way and started developing around that. So... yes. Mostly. Spending what time you read this. Which... I'm going to assume is after I've modified the site to my hearts content. 
+Good question! I initially started from a template so I could get the boilerplate out of the way and started developing around that. So... yes. Mostly - Depending on what time you read this. Which... I'm going to assume is after I've modified the site to my hearts content.
 
 If you see a portfolio section. I definitely have. I've really got to make one of those.
 

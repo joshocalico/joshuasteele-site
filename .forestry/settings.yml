@@ -11,6 +11,7 @@ sections:
   label: Projects
   create: documents
   match: "**/*"
+  new_doc_ext: ".md"
   templates:
   - portfolio-project
 - type: directory

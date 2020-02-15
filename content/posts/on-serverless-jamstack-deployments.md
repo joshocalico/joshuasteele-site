@@ -28,6 +28,8 @@ I still like rolling my own things, because I love the challenge. You would howe
 
 **Update:** Forestry.io has already gotten back to me about my issue even though I wasn't expecting a response yet. (It's the weekend) They said they'll have a look on Monday.
 
+**Update II:** Forestry.io was going through some downtime. I guess that was my poor luck. I'm glad it's functional now anyway. At least that's what I'm assuming was going on as it is working now and their app status is showing downtime in the correct period.
+
 # Why I'm in love with JAMstack
 
 I live in the fifth largest city of a country with notoriously poor internet infrastructure. Where do I live?

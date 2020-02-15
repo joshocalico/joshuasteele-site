@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: title
+- name: draft
+  type: boolean
+  label: Draft
 - name: author
   type: select
   default: ''
@@ -28,6 +31,10 @@ fields:
     time_format: 
     display_utc: false
   default: now
+- name: comments
+  type: boolean
+  label: Comments
+  default: true
 - name: hero_image
   type: file
   config:

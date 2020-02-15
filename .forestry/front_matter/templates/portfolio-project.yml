@@ -1,4 +1,31 @@
 ---
 label: Portfolio Project
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: draft
+  type: boolean
+  label: Draft
+  default: true
+- name: project_date
+  type: datetime
+  label: Project Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: company
+  type: text
+  config:
+    required: false
+  label: Company
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags

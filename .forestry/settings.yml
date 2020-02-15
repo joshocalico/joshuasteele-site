@@ -8,10 +8,10 @@ sections:
   label: Content
 - type: directory
   path: content/projects
-  label: Projects
+  label: Project
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - portfolio-project
 - type: directory

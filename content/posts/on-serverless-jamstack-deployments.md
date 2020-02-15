@@ -11,7 +11,7 @@ author: Joshua Steele
 
 ## JAMStack + Serverless
 
-A great idea, with a bit of complexity._
+_A great idea, with a bit of complexity._
 
 ![Stacked Jam Jars](/content/images/esther-pervis-NGp4xEotut0-unsplash.jpg "A JAMStack")  
 Photo by [Esther Pervis](https://unsplash.com/@easter291?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/jam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

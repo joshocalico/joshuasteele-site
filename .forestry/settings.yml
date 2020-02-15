@@ -7,6 +7,13 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: content/projects
+  label: Projects
+  create: documents
+  match: "**/*"
+  templates:
+  - portfolio-project
+- type: directory
   path: content/posts
   label: Blog Posts
   create: documents

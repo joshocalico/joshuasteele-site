@@ -1,6 +1,7 @@
 ---
 label: Portfolio Project
-hide_body: true
+hide_body: false
+display_field: title
 fields:
 - name: title
   type: text

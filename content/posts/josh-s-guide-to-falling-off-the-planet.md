@@ -11,9 +11,9 @@ author: Joshua Steele
 
 So you can't fall off. Physically.
 
-How I'm managing with the increased stress and curveballs of COVID-19. 
+How I'm managing with the increased stress and curveballs of COVID-19.
 
-**SPOILER Pt. 2:** I'm doing as well as the rest of us, so I'm not really. 
+**SPOILER Pt. 2:** I'm doing as well as the rest of us, so I'm not really.
 
 I'm trying some things though so, read on if you'd like:
 
@@ -26,11 +26,11 @@ Well a few things. Mostly positive, I promise.
 * I'm now officially a Web Developer of StudyLink.
 * I'm part of Apple's Developer Program, expect some apps.
 * I'm working on a lot of freelance projects. No NDA, but I refuse to tell you for now.
-* The virus has made everything a lot harder, but I still have my job so I'm fortunate. I'm making an effort to contribute fiscally to the projects around me, I'm a part timer so I don't have a lot. I want to support people where I can though, I personally don't need much. 
+* The virus has made everything a lot harder, but I still have my job so I'm fortunate. I'm making an effort to contribute fiscally to the projects around me, I'm a part timer so I don't have a lot. I want to support people where I can though, I personally don't need much.
 * Uni is also way hard from home. I still love my degree but I'm not expecting good grades this year. It's way hard to contact my project client.
-* I've been a rather lacklustre student rep due to declining mental health. I'm trying to figure out a way through it though. 
+* I've been a rather lacklustre student rep due to declining mental health. I'm trying to figure out a way through it though.
 
-A lot right? I've noticed that I haven't really been handling doing this without others. 
+A lot right? I've noticed that I haven't really been handling doing this without others.
 
 I've devised that I need to make sure I'm doing the following:
 
@@ -44,7 +44,7 @@ In an effort to be accountable to myself on these, I'm going to post at least on
 
 I get depressed and my self-care slips - so this will act as a sort of late day stand-up. If this fails, I'm not going to hold it against myself. If you aren't me and you're feeling yourself start to struggle, I'd encourage you try it.
 
-I understand that accountability won't help my mental health. But little tasks to keep myself in a decent shape likely will. I mean, to be honest I haven't even talked with my boyfriend nearly as much as I should be right now.
+I understand that accountability won't help my mental health but, little tasks to keep myself in a decent shape likely will. I mean, to be honest I haven't even talked with my boyfriend nearly as much as I should be right now.
 
 What did I do today?:
 

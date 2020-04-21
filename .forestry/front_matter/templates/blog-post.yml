@@ -44,5 +44,6 @@ fields:
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
 - content/posts/josh-s-guide-to-falling-off-the-planet.md
+- content/posts/josh-s-spaghetti-code-factory.md
 - content/posts/on-serverless-jamstack-deployments.md
 - content/posts/sunflower-sutra.md

@@ -7,7 +7,7 @@ draft: false
 author: Joshua Steele
 
 ---
-I don't really have enough time to keep this thing going so my messages are kind of nonsensical.
+I don't really have enough time to keep this thing going so my messages are getting kind of nonsensical.
 
 I'll just talk about some things I liked today. All done while I was busy being productive of course 😉. Looking into the development of Windows 8 and XP, two wonderful videos by Michael MJD. I find them quite interesting and kind of a display of how systems start to become production ready.
 

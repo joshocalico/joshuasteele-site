@@ -7,9 +7,9 @@ draft: false
 author: Joshua Steele
 
 ---
-So, I don't really have enough time to keep this accountability thing going so close to the end of the day so my messages are kind of nonsensical.
+I don't really have enough time to keep this thing going so my messages are kind of nonsensical.
 
-So, I'll just talk about some things I liked today. All done while I was busy being productive of course 😉. Looking into the development of Windows 8 and XP, two wonderful videos by Michael MJD. I find them quite interesting and kind of a display of how systems start to become production ready.
+I'll just talk about some things I liked today. All done while I was busy being productive of course 😉. Looking into the development of Windows 8 and XP, two wonderful videos by Michael MJD. I find them quite interesting and kind of a display of how systems start to become production ready.
 
 I guess it's pretty telling of my relative inexperience with large projects in industry that I find such iteration interesting, or maybe it's just the fact that UX iteration is just super cool.
 
@@ -21,7 +21,7 @@ I hear you say, why not JAMstack? Well. The site is pretty dynamic and user faci
 
 One fortunate thing is Python has had a usage resurgence for me, which I'm glad for. It's just such a pleasant language. My freelance work is using it too! Just don't tell my work I know PL/SQL 😅. Despite my general squeamishness at the thought of it I'm considering learning CFML, not for ColdFusion but  for Lucee. If I'm even slightly more useful at work I think I'll be happy.
 
-The 5: Social: N, Self-care: Y, Sleep: 3, Exercise: Y, Tasks: Y 
+The 5: Social: N, Self-care: Y, Sleep: 3, Exercise: Y, Tasks: Y
 
 Today I did work so we can do work, how meta.
 

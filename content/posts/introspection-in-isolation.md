@@ -55,8 +55,7 @@ Therapy is helpful for managing my state, but it is not a solution.
 
 I need to go back and see someone, be it a doctor or psychiatrist so I can explore this option again. This time, I will tell my family that I'm going on medication (if the professional deems it necessary) and I will explore creating an access plan to account for the _messy_ period. 
 
-_  
-"But,"_ I hear me posing as a reader enquire _"Why now? If you haven't addressed this for over a year, what makes now special?"_. Easy. I'm locked in a room, _by myself_. 
+_"But,"_ I hear me posing as a reader enquire _"Why now? If you haven't addressed this for over a year, what makes now special?"_. Easy. I'm locked in a room, _by myself_. 
 
 I've noticed something about me. I can ignore my problems if I pour my life into work or when I'm with other people. I have other things on my mind.
 

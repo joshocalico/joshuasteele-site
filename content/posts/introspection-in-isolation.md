@@ -7,6 +7,8 @@ draft: false
 author: Joshua Steele
 
 ---
+The final personal post for a while. I promise.
+
 This is an introspection on my actions in the past year. I wish I could say it would reflect positively on me but, it really doesn't.
 
 I have a lot of problems, I haven't confronted them for a while - and now I honestly don't know how to resolve them.

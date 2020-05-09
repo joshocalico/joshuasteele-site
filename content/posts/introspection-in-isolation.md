@@ -65,7 +65,7 @@ How is this an unresolvable problem? The above part isn't the issue rather, the 
 
 The issue is, I've let a debt build. Not a financial one, but a work one.
 
-Through a combination of health management denial and depression, I've let something I would normally put first, my work slip through the cracks.
+Through a combination of health management denial and depression, I've let something I would normally put first, (my work) slip through the cracks.
 
 I hope to have some good news to report, but I'm not too sure.
 

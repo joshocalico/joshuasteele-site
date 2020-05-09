@@ -1,7 +1,7 @@
 ---
 date: 2020-05-09T23:08:05+09:30
 comments: true
-hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+hero_image: "/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 title: Introspection in isolation
 draft: false
 author: Joshua Steele

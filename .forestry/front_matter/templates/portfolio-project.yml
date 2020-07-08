@@ -31,4 +31,5 @@ fields:
   default: []
   label: Tags
 pages:
+- content/projects/roam-experiential-learning.md
 - content/projects/this-site.md

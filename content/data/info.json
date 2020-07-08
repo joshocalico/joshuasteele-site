@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>Site by Joshua Steele. I'm available for hire. See my contact details below.</p>",
+  "description": "<h1>I make things to make people's lives brighter.</h1>",
+  "cta": "<p>Hi! I'm Josh. Got a cool project for me? Shoot me a message.</p>",
   "contact": {
     "email": "josh@nitrocade.com",
     "twitter_handle": "joshocalico",
     "github_handle": "joshocalico"
   },
-  "background_color": "#E7F0FF"
+  "background_color": "#414549"
 }
